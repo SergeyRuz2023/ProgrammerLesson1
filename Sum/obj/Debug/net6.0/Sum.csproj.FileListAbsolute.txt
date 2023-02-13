@@ -1,0 +1,15 @@
+C:\Users\Робочие\Desktop\GB\Programmer\Lesson1\Sum\bin\Debug\net6.0\Sum.exe
+C:\Users\Робочие\Desktop\GB\Programmer\Lesson1\Sum\bin\Debug\net6.0\Sum.deps.json
+C:\Users\Робочие\Desktop\GB\Programmer\Lesson1\Sum\bin\Debug\net6.0\Sum.runtimeconfig.json
+C:\Users\Робочие\Desktop\GB\Programmer\Lesson1\Sum\bin\Debug\net6.0\Sum.dll
+C:\Users\Робочие\Desktop\GB\Programmer\Lesson1\Sum\bin\Debug\net6.0\Sum.pdb
+C:\Users\Робочие\Desktop\GB\Programmer\Lesson1\Sum\obj\Debug\net6.0\Sum.csproj.AssemblyReference.cache
+C:\Users\Робочие\Desktop\GB\Programmer\Lesson1\Sum\obj\Debug\net6.0\Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Робочие\Desktop\GB\Programmer\Lesson1\Sum\obj\Debug\net6.0\Sum.AssemblyInfoInputs.cache
+C:\Users\Робочие\Desktop\GB\Programmer\Lesson1\Sum\obj\Debug\net6.0\Sum.AssemblyInfo.cs
+C:\Users\Робочие\Desktop\GB\Programmer\Lesson1\Sum\obj\Debug\net6.0\Sum.csproj.CoreCompileInputs.cache
+C:\Users\Робочие\Desktop\GB\Programmer\Lesson1\Sum\obj\Debug\net6.0\Sum.dll
+C:\Users\Робочие\Desktop\GB\Programmer\Lesson1\Sum\obj\Debug\net6.0\refint\Sum.dll
+C:\Users\Робочие\Desktop\GB\Programmer\Lesson1\Sum\obj\Debug\net6.0\Sum.pdb
+C:\Users\Робочие\Desktop\GB\Programmer\Lesson1\Sum\obj\Debug\net6.0\Sum.genruntimeconfig.cache
+C:\Users\Робочие\Desktop\GB\Programmer\Lesson1\Sum\obj\Debug\net6.0\ref\Sum.dll
