@@ -1,0 +1,15 @@
+C:\Users\Робочие\Desktop\GB\Programmer\Lesson1\Magic\bin\Debug\net6.0\Magic.exe
+C:\Users\Робочие\Desktop\GB\Programmer\Lesson1\Magic\bin\Debug\net6.0\Magic.deps.json
+C:\Users\Робочие\Desktop\GB\Programmer\Lesson1\Magic\bin\Debug\net6.0\Magic.runtimeconfig.json
+C:\Users\Робочие\Desktop\GB\Programmer\Lesson1\Magic\bin\Debug\net6.0\Magic.dll
+C:\Users\Робочие\Desktop\GB\Programmer\Lesson1\Magic\bin\Debug\net6.0\Magic.pdb
+C:\Users\Робочие\Desktop\GB\Programmer\Lesson1\Magic\obj\Debug\net6.0\Magic.csproj.AssemblyReference.cache
+C:\Users\Робочие\Desktop\GB\Programmer\Lesson1\Magic\obj\Debug\net6.0\Magic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Робочие\Desktop\GB\Programmer\Lesson1\Magic\obj\Debug\net6.0\Magic.AssemblyInfoInputs.cache
+C:\Users\Робочие\Desktop\GB\Programmer\Lesson1\Magic\obj\Debug\net6.0\Magic.AssemblyInfo.cs
+C:\Users\Робочие\Desktop\GB\Programmer\Lesson1\Magic\obj\Debug\net6.0\Magic.csproj.CoreCompileInputs.cache
+C:\Users\Робочие\Desktop\GB\Programmer\Lesson1\Magic\obj\Debug\net6.0\Magic.dll
+C:\Users\Робочие\Desktop\GB\Programmer\Lesson1\Magic\obj\Debug\net6.0\refint\Magic.dll
+C:\Users\Робочие\Desktop\GB\Programmer\Lesson1\Magic\obj\Debug\net6.0\Magic.pdb
+C:\Users\Робочие\Desktop\GB\Programmer\Lesson1\Magic\obj\Debug\net6.0\Magic.genruntimeconfig.cache
+C:\Users\Робочие\Desktop\GB\Programmer\Lesson1\Magic\obj\Debug\net6.0\ref\Magic.dll
